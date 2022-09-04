@@ -27,4 +27,6 @@ Update completed
 
 === TEST 6: seller delete =====
 Enter id for delete test: 
+2
+Delete completed
 ```
